@@ -1,0 +1,44 @@
+================================
+
+Creación de tickets
+
+categorías intuitivas (nuevo):
+software,
+maquina,
+impresora,
+etc
+
+areas:
+Direccion,
+ventas,
+sistema,
+mantenimiento,
+RRHH,
+calidad,
+finanzas,
+almacen general,
+logistica
+
+asiganción solo a:
+TI/Soporte/Sistemas,
+mantenimiento
+
+================================
+
+Inicio
+
+Cambiar el background para que se diferencie del panel
+
+
+
+=================================
+
+Login
+
+Iniciar secion con Inicial y Apellido en lugar de correo electrónico
+
+=====================================
+
+Org
+
+Colocar el organigrama
